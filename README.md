@@ -1,5 +1,6 @@
 # **Guias de laboratorio DPS104 05L**
-#####  Alejandro José Castillo Pacheco  -- CP190719 //  Cesar Adilson Vasquez Ayala -- AV190068 Ciclo 02 2022
+#####  Alejandro José Castillo Pacheco  -- CP190719 
+##### Cesar Adilson Vasquez Ayala -- AV190068 Ciclo 02 2022
 - Guia 01 - 100 % avance.
 - Guia 02 -  100 % avance.
 - Guia 03 -  100% avance.
