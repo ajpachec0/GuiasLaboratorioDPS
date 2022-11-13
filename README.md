@@ -6,8 +6,8 @@
 - Guia 03 -  100% avance.
 - Guia 04 -  100% avance.
 - Guia 05 -  100% avance.
-- Guia 06 -  % avance.
-- Guia 07 -  % avance.
-- Guia 08 -  % avance.
-- Guia 09 -  % avance.
-- Guia 10 -  % avance.
+- Guia 06 -  100% avance.
+- Guia 07 -  100% avance.
+- Guia 08 -  100% avance.
+- Guia 09 -  100% avance.
+- Guia 11 -  100% avance.
